@@ -12,7 +12,7 @@
         "cross-env": "^3.2.3",
         "docsearch.js": "^2.6.2",
         "highlight.js": "^9.13.1",
-        "laravel-mix": "^5.0.4",
+        "laravel-mix": "^6.0.49",
         "laravel-mix-jigsaw": "github:iskrisis/laravel-mix-jigsaw",
         "laravel-mix-purgecss": "^4.0.0||^5.0.0",
         "precss": "^4.0.0",
